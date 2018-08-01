@@ -34,7 +34,7 @@ python select_feature.py ../../simpleads/click_log_small.txt
 
 python store_ctr_feature.py
 
-python prepare_ctr_training_data.py /home/jifeiqian/Projects/SearchAds/simpleads/click_log_small.txt
+python prepare_ctr_training_data.py /home/chengwei/Projects/SearchAds/simpleads/click_log_small.txt
 
 python ctr_logistic.py
 
