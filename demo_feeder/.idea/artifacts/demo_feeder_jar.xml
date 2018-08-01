@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="demo_feeder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/demo_feeder_jar</output-path>
+    <root id="archive" name="demo_feeder.jar">
+      <element id="module-output" name="demo_feeder" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javalib/amqp-client-5.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javalib/slf4j-simple-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javalib/slf4j-api-1.7.25.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
