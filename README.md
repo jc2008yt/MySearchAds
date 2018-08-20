@@ -1,6 +1,6 @@
 # Search Ads Web Service
 
-Online search advertisement platform & Realtime Campaign Monitoring
+ Search advertisement platform
 
 ## Project Description
 
