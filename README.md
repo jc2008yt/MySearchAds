@@ -26,7 +26,7 @@ Used Jsoup to crawler information on Amazon.
 * Avoid Bot Detection:  use Proxy IP and rotating Brower
 * performance: use message queue to implement a distributed Web Crawler
 
-![](/images/import.png)
+![](/images/2.jpeg)
 
 ## Online Search Ads Platform
 
